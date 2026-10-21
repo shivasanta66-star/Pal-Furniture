@@ -1,0 +1,4 @@
+# Netlify settings for Git-based deploys. The website lives in the site/ folder.
+# (For drag-and-drop deploys, drag the site/ folder itself onto Netlify.)
+[build]
+  publish = "site"
